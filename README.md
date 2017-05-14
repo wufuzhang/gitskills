@@ -1,3 +1,3 @@
 # gitskills
 This is a example file
-new fature
+new fature new conflict
